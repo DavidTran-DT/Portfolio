@@ -1,0 +1,262 @@
+{
+  "vi": {
+    "head": {
+      "sitename": "Trần Hữu Sách",
+      "home": "Trang chủ",
+      "about": "Giới thiệu",
+      "resume": "Hồ sơ",
+      "portfolio": "Dự án",
+      "services": "Dịch Vụ",
+      "contact": "Liên hệ"
+    },
+    "main": {
+      "hero": {
+        "name": "Trần Hữu Sách",
+        "intro": "Tôi là",
+        "typedItems": "Lập trình viên nhúng cho IoT, Thiết kế mạch phần cứng, Phát triển Web, Phát triển App"
+      },
+      "about": {
+        "title": {
+          "sectionTitle": "Giới thiệu",
+          "sectionText": [
+            "Xin chào! Tôi là Trần Hữu Sách, một người đam mê Lập trình nhúng trong hệ thống IoT và Thiết kế mạch phần cứng. ",
+            "Tôi nhiệt huyết với việc tạo ra các giải pháp tự động hóa thông minh. Với nền tảng về Kỹ thuật điều khiển và ",
+            "Tự động hóa, tôi chuyên thiết kế và phát triển các hệ thống IoT hiệu quả, viết mã nhúng cho nhiều nền tảng phần cứng, ",
+            "và xây dựng các ứng dụng web và di động tương tác. Kinh nghiệm của tôi bao gồm làm việc với các nền tảng như Arduino, ",
+            "ESP32, STM32, và tích hợp cảm biến, bộ điều khiển vào các hệ thống thông minh. Tôi cũng có kinh nghiệm trong việc ",
+            "thiết kế mạch điện tử, đóng vai trò quan trọng trong nhiều dự án tôi tham gia."
+          ]
+        },
+        "content": {
+          "title": "Lập trình viên nhúng cho IoT",
+          "intro": [
+            "Trong thời gian rảnh, tôi thích khám phá công nghệ mới, giải quyết các vấn đề phức tạp và cập nhật những xu hướng ",
+            "mới nhất trong phát triển phần mềm và điện tử."
+          ],
+          "birthday-txt": "Sinh nhật:",
+          "birthday": "18/11/2001",
+          "website-txt": "Trang web:",
+          "website": "www.example.com",
+          "phone-txt": "Điện thoại:",
+          "phone": "+84 865 863 872",
+          "city-txt": "Thành phố:",
+          "city": "Thành phố Hồ Chí Minh, Việt Nam",
+          "age-txt": "Tuổi:",
+          "age": "23",
+          "degree-txt": "Bằng cấp:",
+          "degree": "Kỹ sư",
+          "email-txt": "Email:",
+          "email": "sachtran1811@gmail.com",
+          "freelance-txt": "Làm việc tự do:",
+          "freelance": "Sẵn sàng",
+          "conclusion": "Hãy thoải mái liên hệ nếu bạn muốn hợp tác hoặc có bất kỳ câu hỏi nào!"
+        }
+      },
+      "stats": {
+        "happyClients": {
+          "title": "Khách hàng hài lòng",
+          "subtitle": "đạt được mong muốn",
+          "percentage": 220
+        },
+        "projects": {
+          "title": "Dự án",
+          "subtitle": "hoàn thành xuất sắc",
+          "percentage": 521
+        },
+        "hoursOfSupport": {
+          "title": "Thời gian hỗ trợ",
+          "subtitle": "luôn đồng hành cùng bạn",
+          "percentage": 1453
+        },
+        "hardWorkers": {
+          "title": "Thái độ làm việc",
+          "subtitle": "làm việc tận tâm",
+          "percentage": 32
+        }
+      },
+      "skills": {
+        "title": "Kỹ năng",
+        "intro": [
+          "Với chuyên môn về lập trình nhúng, hệ thống IoT và thiết kế mạch phần cứng, tôi tập trung vào phát triển các giải pháp ",
+          "sáng tạo tích hợp phần cứng và phần mềm một cách liền mạch. Mục tiêu của tôi là mang đến các hệ thống tự động hóa ",
+          "thông minh, hiệu quả và đáng tin cậy, phù hợp với ứng dụng thực tế."
+        ],
+        "skills": [
+          {
+            "name": "Tiếng Anh",
+            "percentage": 50
+          },
+          {
+            "name": "Tin học văn phòng",
+            "percentage": 80
+          },
+          {
+            "name": "Lập trình nhúng",
+            "percentage": 75
+          },
+          {
+            "name": "Thiết kế mạch phần cứng",
+            "percentage": 75
+          },
+          {
+            "name": "Lập trình ứng dụng di động",
+            "percentage": 65
+          },
+          {
+            "name": "Lập trình web",
+            "percentage": 60
+          }
+        ]
+      },
+      "resume": {
+        "sectionTitle": {
+          "title": "Sơ yếu lý lịch",
+          "intro": "Đây là phần giới thiệu tóm tắt về bản thân và những thành tựu nổi bật của bạn trong sự nghiệp và học vấn."
+        },
+        "sumary": {
+          "title": "Tóm tắt",
+          "name": "Trần Hữu Sách",
+          "description": [
+            "Đam mê lập trình nhúng và thiết kế hệ thống IoT, với hơn 3 năm kinh nghiệm phát triển các giải pháp tự động hóa ",
+            "thông minh, tích hợp phần cứng và phần mềm."
+          ],
+          "details": [
+            "TP. Hồ Chí Minh, Việt Nam",
+            "(+84) 865 863 872",
+            "sachtran1811@gmail.com"
+          ]
+        },
+        "education": [
+          {
+            "title": "Học vấn",
+            "degree": "Kỹ sư Tự động hóa",
+            "year": "2019 - 2023",
+            "institution": "Trường Đại học Cần thơ",
+            "description": "Tốt nghiệp với thành tích giỏi, chuyên ngành kỹ thuật Điều khiển và Tự động hóa."
+          }
+        ],
+        "experience": {
+          "title": "Kinh nghiệm làm việc",
+          "items": [
+            {
+              "position": "eProjects 2",
+              "year": "09/2020 - 03/2021",
+              "company": "BUIT-IT, ARIZONA STATE UNIVERSITY, USAID, DOW VIET NAM",
+              "details": [
+                "Rèn luyện tư duy để giải quyết các vấn đề kỹ thuật.",
+                "Hiểu được quy trình thiết kế của một sản phẩm kỹ thuật.",
+                "Áp dụng kiến ​​thức đã học vào một dự án thực tế.",
+                "Quản lý thời gian hiệu quả.",
+                "Thực hành các kỹ năng làm việc nhóm."
+              ]
+            },
+            {
+              "position": "EPICS 5",
+              "year": "09/2021 - 02/2022",
+              "company": "BUIT-IT, ARIZONA STATE UNIVERSITY, USAID, DOW VIET NAM",
+              "details": [
+                "Kỹ năng lập kế hoạch, thiết kế, xây dựng và triển khai các dự án sáng tạo để giải quyết các vấn đề cộng đồng dựa trên kỹ thuật.",
+                "Thực hành các kỹ năng thiết kế sơ đồ và PCB.",
+                "Cải thiện tư duy lập trình ESP32 giao tiếp qua internet.",
+                "Quản lý thời gian hiệu quả.",
+                "Thực hành các kỹ năng làm việc nhóm."
+              ]
+            },
+            {
+              "position": "BUILD-ON 2021",
+              "year": "04/2021 - 07/2021",
+              "company": " AMAZON WEB SERVICES",
+              "details": [
+                "Tìm hiểu giải pháp điện toán đám mây AWS.",
+                "Có được kinh nghiệm làm việc theo nhóm.",
+                "Sử dụng nền tảng AWS để xử lý hình ảnh nhận được từ camera."
+              ]
+            },
+            {
+              "position": "THỰC TẬP SINH",
+              "year": "05/2022 - 07/2022",
+              "company": "CÔNG TY CÔNG NGHỆ EPLUSI",
+              "details": [
+                "Làm việc với bảng mạch phủ xanh và linh kiện dán.",
+                "Thực hành các kỹ năng hàn chip và linh kiện dán.",
+                "Tìm hiểu quy trình thiết kế mạch PCB."
+              ]
+            },
+            {
+              "position": "eProjects 3",
+              "year": "04/2022 - 09/2022",
+              "company": "BUIT-IT, ARIZONA STATE UNIVERSITY, USAID, DOW VIET NAM",
+              "details": [
+                "Rèn luyện kỹ năng quản lý nhóm, sắp xếp thời gian và phân chia công việc hiệu quả.",
+                "Rèn luyện trí óc để giải quyết các vấn đề kỹ thuật.",
+                "Hiểu biết và lập trình về truyền thông không dây (WiFi, Lora), lập trình ứng dụng android về IoT."
+              ]
+            },
+            {
+              "position": "IEC",
+              "year": "09/2022 - 03/2023",
+              "company": "BUIT-IT, ARIZONA STATE UNIVERSITY, USAID, DOW VIET NAM",
+              "details": [
+                "Rèn luyện kỹ năng làm việc nhóm, kỹ năng giải quyết vấn đề và phân chia công việc hiệu quả.",
+                "Rèn luyện kỹ năng lập trình web (HTML/CSS/JS), kỹ năng lập trình ứng dụng Android.",
+                "Học và lập trình STM32, nâng cao kỹ năng lập trình ESP32."
+              ]
+            },
+            {
+              "position": "CUỘC KHI KHOA HỌC SÁNG TẠO 2023",
+              "year": "12/2022 - 05/2023",
+              "company": "VNEXPRESS",
+              "details": [
+                "Thực hành kỹ năng làm việc nhóm và kỹ năng giải quyết vấn đề hiệu quả.",
+                "Áp dụng kiến ​​thức đã học để tạo ra các sản phẩm có thể ứng dụng vào cuộc sống.",
+                "Thực hành kỹ năng lập trình nhúng, lập trình Web (HTML/CSS/JAVASCRIPT) và lập trình ứng dụng di động."
+              ]
+            },
+            {
+              "position": "CUỘC THI DỰ ÁN KHỞI NGHIỆP TIỀM NĂNG CỦA SINH VIÊN TRƯỜNG ĐẠI HỌC CẦN THƠ SẼ DIỄN RA VÀO NĂM 2023",
+              "year": "03/2023 - 05/2023",
+              "company": "ĐẠI HỌC CẦN THƠ",
+              "details": [
+                "Thực hành kỹ năng làm việc nhóm và giải quyết vấn đề.",
+                "Hiểu cách giao dịch sản phẩm kỹ thuật và cách đưa sản phẩm đó ra thị trường thương mại."
+              ]
+            },
+            {
+              "position": "THỰC TẬP SINH",
+              "year": "02/2023 - 05/2023",
+              "company": "CÔNG TY CÔNG NGHỆ EPLUSI",
+              "details": [
+                "Thiết kế mạch từ các linh kiện SMD, hàn mạch và kiểm tra hoạt động của mạch."
+              ]
+            },
+            {
+              "position": "LẬP TRÌNH NHÚNG HỆ THỐNG IOT",
+              "year": "06/2023 - 05/2024",
+              "company": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT BẢO NGỌC",
+              "details": [
+                "Lập trình nhúng cho hệ thống quan trắc nước ngầm",
+                "Thiết kế và thi công tủ điều khiển máy bơm từ xá"
+              ]
+            },
+            {
+              "position": "LẮP ĐẶT VÀ BẢO TRÌ",
+              "year": "06/2024 - 01/2025",
+              "company": "CÔNG TY CỔ PHẦN TEPBAC",
+              "details": [
+                "Thiết kế và thi công tủ điện IoT.",
+                "Lắp đặt và bảo trì máy cho ăn, tủ điện và máy đo môi trường cho ao tôm."
+              ]
+            }
+          ]
+        }
+      },
+      "portfolio": {
+        "portfolio-title": "Giới thiệu dự án",
+        "portfolio-content": "Tôi đã thực hiện nhiều dự án nổi bật như Vườn Thông Minh, Hệ thống giám sát HMI, và Mô hình Điện Gió, mang đến các giải pháp tự động hóa thông minh và hiệu quả. Mỗi sản phẩm đều được tôi chăm chút, từ phần cứng đến phần mềm, nhằm đáp ứng tốt nhất nhu cầu thực tế."
+      },
+      "services": {
+        "title": "Dịch vụ"
+      }
+    }
+  }
+}

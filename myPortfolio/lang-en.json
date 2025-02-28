@@ -1,0 +1,255 @@
+{
+  "en": {
+    "head": {
+      "sitename": "Tran Huu Sach",
+      "home": "Home",
+      "about": "About",
+      "resume": "Resume",
+      "portfolio": "Projects",
+      "services": "Services",
+      "contact": "Contact"
+    },
+    "main": {
+      "hero": {
+        "name": "Tran Huu Sach",
+        "intro": "I am",
+        "typedItems": "Embedded Developer for IoT, Hardware Circuit Design, Web Development, App Development"
+      },
+      "about": {
+        "title": {
+          "sectionTitle": "About",
+          "sectionText": [
+            "Hello! I am Tran Huu Sach, a passionate Embedded Developer specializing in IoT systems and Hardware Circuit Design.",
+            "I am enthusiastic about creating smart automation solutions. With a background in Control and Automation Engineering,",
+            "I specialize in designing and developing efficient IoT systems, writing embedded code for various hardware platforms,",
+            "and building interactive web and mobile applications. My experience includes working with platforms such as Arduino,",
+            "ESP32, STM32, and integrating sensors and controllers into smart systems. I also have expertise in electronic circuit design,",
+            "playing a crucial role in many projects I have worked on."
+          ]
+        },
+        "content": {
+          "title": "Embedded Developer for IoT",
+          "intro": [
+            "In my free time, I enjoy exploring new technologies, solving complex problems, and keeping up with the latest trends",
+            "in software development and electronics."
+          ],
+          "birthday-txt": "Birthday:",
+          "birthday": "November 18, 2001",
+          "website-txt": "Website:",
+          "website": "www.example.com",
+          "phone-txt": "Phone:",
+          "phone": "+84 865 863 872",
+          "city-txt": "City:",
+          "city": "Ho Chi Minh City, Vietnam",
+          "age-txt": "Age:",
+          "age": "23",
+          "degree-txt": "Degree:",
+          "degree": "Engineer",
+          "email-txt": "Email:",
+          "email": "sachtran1811@gmail.com",
+          "freelance-txt": "Freelance:",
+          "freelance": "Available",
+          "conclusion": "Feel free to reach out if you are interested in collaboration or have any questions!"
+        }
+      },
+      "stats": {
+        "happyClients": {
+          "title": "Happy Clients",
+          "subtitle": "achieving their goals",
+          "percentage": 220
+        },
+        "projects": {
+          "title": "Projects",
+          "subtitle": "successfully completed",
+          "percentage": 521
+        },
+        "hoursOfSupport": {
+          "title": "Hours of Support",
+          "subtitle": "dedicated to assisting you",
+          "percentage": 1453
+        },
+        "hardWorkers": {
+          "title": "Hard Workers",
+          "subtitle": "working with dedication",
+          "percentage": 32
+        }
+      },
+      "skills": {
+        "title": "Skills",
+        "intro": [
+          "With expertise in embedded programming, IoT systems, and hardware circuit design, I focus on developing innovative",
+          "solutions that seamlessly integrate hardware and software. My goal is to create smart, efficient, and reliable automation",
+          "systems that are applicable to real-world use cases."
+        ],
+        "skills": [
+          {
+            "name": "English",
+            "percentage": 50
+          },
+          {
+            "name": "MS OFFICE",
+            "percentage": 80
+          },
+          {
+            "name": "Embedded Programming",
+            "percentage": 75
+          },
+          {
+            "name": "Hardware Circuit Design",
+            "percentage": 75
+          },
+          {
+            "name": "Mobile App Development",
+            "percentage": 65
+          },
+          {
+            "name": "Web Development",
+            "percentage": 60
+          }
+        ]
+      },
+      "resume": {
+        "sectionTitle": {
+          "title": "Resume",
+          "intro": "This section provides a brief introduction about myself and my key achievements in career and education."
+        },
+        "sumary": {
+          "title": "Summary",
+          "name": "Tran Huu Sach",
+          "description": [
+            "Passionate about embedded programming and IoT system design, with over 3 years of experience in developing smart",
+            "automation solutions, integrating hardware and software."
+          ],
+          "details": [
+            "Ho Chi Minh City, Vietnam",
+            "(+84) 865 863 872",
+            "sachtran1811@gmail.com"
+          ]
+        },
+        "education": [
+          {
+            "degree": "Bachelor of Automation Engineering",
+            "year": "2019 - 2023",
+            "institution": "Can Tho University",
+            "description": "Graduated with honors in Control and Automation Engineering."
+          }
+        ],
+        "experience": [
+          {
+            "position": "eProjects 2",
+            "year": "09/2020 - 03/2021",
+            "company": "BUIT-IT, ARIZONA STATE UNIVERSITY, USAID, DOW VIET NAM",
+            "details": [
+              "Developed problem-solving skills for technical challenges.",
+              "Learned the product design process.",
+              "Applied acquired knowledge to a real-world project.",
+              "Managed time effectively.",
+              "Practiced teamwork skills."
+            ]
+          },
+          {
+            "position": "EPICS 5",
+            "year": "09/2021 - 02/2022",
+            "company": "BUIT-IT, ARIZONA STATE UNIVERSITY, USAID, DOW VIET NAM",
+            "details": [
+              "Developed planning, design, and project execution skills to solve community-based engineering challenges.",
+              "Practiced schematic and PCB design skills.",
+              "Improved ESP32 programming skills for Internet communication.",
+              "Managed time effectively.",
+              "Strengthened teamwork skills."
+            ]
+          },
+          {
+            "position": "BUILD-ON 2021",
+            "year": "04/2021 - 07/2021",
+            "company": "AMAZON WEB SERVICES",
+            "details": [
+              "Learned about AWS cloud computing solutions.",
+              "Gained experience working in teams.",
+              "Used AWS platform for processing images received from cameras."
+            ]
+          },
+          {
+            "position": "Intern",
+            "year": "05/2022 - 07/2022",
+            "company": "EPLUSI TECHNOLOGY COMPANY",
+            "details": [
+              "Worked with green PCB boards and SMD components.",
+              "Practiced soldering chip and SMD components.",
+              "Learned the PCB design process."
+            ]
+          },
+          {
+            "position": "eProjects 3",
+            "year": "04/2022 - 09/2022",
+            "company": "BUIT-IT, ARIZONA STATE UNIVERSITY, USAID, DOW VIET NAM",
+            "details": [
+              "Enhanced team management, time management, and task delegation skills.",
+              "Developed problem-solving abilities for technical issues.",
+              "Gained experience in wireless communication (WiFi, LoRa) and Android IoT application development."
+            ]
+          },
+          {
+            "position": "IEC",
+            "year": "09/2022 - 03/2023",
+            "company": "BUIT-IT, ARIZONA STATE UNIVERSITY, USAID, DOW VIET NAM",
+            "details": [
+              "Developed teamwork, problem-solving, and task management skills.",
+              "Learned and practiced web development (HTML/CSS/JS) and Android app development.",
+              "Gained experience in STM32 programming and advanced ESP32 programming."
+            ]
+          },
+          {
+            "position": "Innovative Science Contest 2023",
+            "year": "12/2022 - 05/2023",
+            "company": "VNEXPRESS",
+            "details": [
+              "Practiced teamwork and problem-solving skills effectively.",
+              "Applied acquired knowledge to develop products applicable to real life.",
+              "Gained experience in embedded programming, web development (HTML/CSS/JavaScript), and mobile app development."
+            ]
+          },
+          {
+            "position": "Startup Potential Project Competition 2023",
+            "year": "03/2023 - 05/2023",
+            "company": "CAN THO UNIVERSITY",
+            "details": [
+              "Practiced teamwork and problem-solving skills.",
+              "Gained insights into technical product commercialization and market introduction strategies."
+            ]
+          },
+          {
+            "position": "Intern",
+            "year": "02/2023 - 05/2023",
+            "company": "EPLUSI TECHNOLOGY COMPANY",
+            "details": [
+              "Designed circuits using SMD components, soldered circuits, and tested their functionality."
+            ]
+          },
+          {
+            "position": "Embedded IoT Developer",
+            "year": "06/2023 - 05/2024",
+            "company": "BAO NGOC TECHNICAL SERVICES TRADING CO., LTD",
+            "details": [
+              "Developed embedded software for groundwater monitoring systems.",
+              "Designed and implemented remote-controlled pump control cabinets."
+            ]
+          },
+          {
+            "position": "Installation & Maintenance",
+            "year": "06/2024 - 01/2025",
+            "company": "TEPBAC JOINT STOCK COMPANY",
+            "details": [
+              "Designed and implemented IoT electrical cabinets.",
+              "Installed and maintained feeding machines, electrical cabinets, and environmental monitoring devices for shrimp farms."
+            ]
+          }
+        ]
+      },
+      "portfolio": {
+        "portfolio-title": "Project Showcase",
+        "portfolio-content": "I have worked on various notable projects such as the Smart Garden, HMI Monitoring System, and Wind Power Model, delivering smart and efficient automation solutions. Each product is carefully crafted, from hardware to software, to best meet practical needs."
+      }
+    }
+  }
+}
